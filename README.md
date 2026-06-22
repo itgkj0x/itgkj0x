@@ -1,7 +1,7 @@
 ## Hi there 👋
 Im a Beginner Developer🧑‍💻.
 <br>
-Now learning Javascript and Python💬.
+Now learning Javascript、C++ and Python💬.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itgkj0x)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itgkj0x)
